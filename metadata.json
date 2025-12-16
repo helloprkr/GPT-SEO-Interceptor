@@ -1,0 +1,5 @@
+{
+  "name": "ChatGPT SEO Interceptor",
+  "description": "A dashboard that connects to a local Node.js server to automate ChatGPT search extraction.",
+  "requestFramePermissions": []
+}
